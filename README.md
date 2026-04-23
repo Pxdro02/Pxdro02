@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Pedro Henrique" src="https://github.com/user-attachments/assets/e10e5609-5e8b-4fbc-b3da-9df8c5a284f2" />
+<img width="1584" height="396" alt="Pedro Henrique" src="https://github.com/user-attachments/assets/148d06f2-0438-448c-8618-e83d5be52302" />
 
 ## Hey there 👋
 
